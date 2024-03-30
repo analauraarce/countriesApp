@@ -7,10 +7,10 @@ This is a single page application that uses an API to search for information abo
 https://analauraarce.github.io/countriesApp/
 
 ## Author ✒️
-Ana Laura Arce
+**Ana Laura Arce**
 
-alauraarce8@gmail.com
-LinkedIn
+* alauraarce8@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/analauraarce/)
 
 ## What have I learned with this project? 🙇🏻
 
