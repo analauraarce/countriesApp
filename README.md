@@ -16,7 +16,7 @@ https://analauraarce.github.io/countriesApp/
 
 To create this application different topics were used, for example: RouterLink, RouterLinkActive, DebounceTime, SwitchMaps, ngClass, conditional CSS.
 
-# CountriesApp
+## CountriesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
 
