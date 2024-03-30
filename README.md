@@ -1,3 +1,21 @@
+Description 📑
+
+This is a single page application that uses an API to search for information about countries: flag, population, area... The search can be done by typing the name of a country or its capital, or by region.
+
+The site is live at
+
+https://analauraarce.github.io/countriesApp/
+
+Author ✒️
+Ana Laura Arce
+
+alauraarce8@gmail.com
+LinkedIn
+
+What have I learned with this project? 🙇🏻
+
+To create this application different topics were used, for example: RouterLink, RouterLinkActive, DebounceTime, SwitchMaps, ngClass, conditional CSS.
+
 # CountriesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
