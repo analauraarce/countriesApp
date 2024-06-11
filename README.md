@@ -14,7 +14,7 @@ https://analauraarce.github.io/countriesApp/
 
 ## What have I learned with this project? 🙇🏻
 
-To create this application different topics were used, for example: RouterLink, RouterLinkActive, DebounceTime, SwitchMaps, ngClass, conditional CSS.
+To create this application different concepts were used, for example: RouterLink, RouterLinkActive, DebounceTime, SwitchMaps, ngClass, conditional CSS.
 
 ## CountriesApp
 
